@@ -221,9 +221,3 @@ MIT License - 자세한 내용은 LICENSE 파일 참조
 - [Prim's Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
 - [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
-
----
-
-**개발자**: [Your Name]
-**버전**: 1.0.0
-**최종 업데이트**: 2025년
